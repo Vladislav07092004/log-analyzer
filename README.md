@@ -15,8 +15,8 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/game-log-analyzer.git
-cd game-log-analyzer
+git clone https://github.com/Vladislav07092004/log-analyzer.git
+cd log-analyzer
 ```
 
 ## Возможности
