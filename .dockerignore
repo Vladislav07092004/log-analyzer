@@ -1,0 +1,9 @@
+README.docx
+combined_log.txt
+output.txt
+*.docx
+__pycache__
+*.pyc
+.git
+.env
+*.log
